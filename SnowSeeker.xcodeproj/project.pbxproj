@@ -81,15 +81,15 @@
 				4610218B244C7AC20040D7E0 /* SkiDetailsView.swift */,
 				4610218D244C7B790040D7E0 /* ResortDetailsView.swift */,
 				46102189244C77FB0040D7E0 /* ResortView.swift */,
+				46102185244B3DA30040D7E0 /* Bundle-Decodable.swift */,
 				46102191244C83EC0040D7E0 /* Favourites.swift */,
 				4610218F244C7FEC0040D7E0 /* Facility.swift */,
+				46102183244B3CB30040D7E0 /* Resort.swift */,
 				46102187244B48FD0040D7E0 /* WelcomeView.swift */,
 				4610217324447AD80040D7E0 /* Assets.xcassets */,
 				4610217824447AD80040D7E0 /* LaunchScreen.storyboard */,
 				4610217B24447AD80040D7E0 /* Info.plist */,
 				4610217524447AD80040D7E0 /* Preview Content */,
-				46102183244B3CB30040D7E0 /* Resort.swift */,
-				46102185244B3DA30040D7E0 /* Bundle-Decodable.swift */,
 			);
 			path = SnowSeeker;
 			sourceTree = "<group>";
